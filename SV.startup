@@ -1,1 +1,2 @@
-ifconfig eth0 5.0.0.0 up
+ifconfig eth0 2.0.0.2 up
+route add default gw 2.0.0.1

@@ -1,5 +1,2 @@
 ifconfig eth0 1.0.0.1 up
 ifconfig eth2 2.0.0.1 up
-ifconfig eth3 3.0.0.1 up
-ifconfig eth4 4.0.0.1 up
-ifconfig eth5 5.0.0.1 up
