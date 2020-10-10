@@ -1,4 +1,2 @@
-service netwoeking restart #reinicio en letwork para que tome la nueva configuracion
+service networking restart #reinicio en letwork para que tome la nueva configuracion
 route add default gw 10.0.8.1
-
-
