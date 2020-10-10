@@ -1,2 +1,2 @@
-ifconfig eth0 10.0.23.0/24 up
-route add default gw 10.0.1.0/30 eth0
+service netwoeking restart #reinicio en letwork para que tome la nueva configuracion
+route add default gw 10.0.8.1
